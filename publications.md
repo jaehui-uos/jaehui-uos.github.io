@@ -3,9 +3,6 @@ layout: page
 title: Publications
 ---
 
-You can also browse my <a href="https://scholar.google.co.in/citations?user=Z-7pPYEAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
-<br />
-
 **2022**
 
 - **Retrieval-Augmented Response Generation for Knowledge-Grounded Conversation in the Wild**  
