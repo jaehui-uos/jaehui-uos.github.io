@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-**2022**
+**2023**
 
 - **Integrating Heterogeneous Graphs Using Graph Transformer Encoder for Solving Math Word Problems**  
   Soyun Shin, **Jaehui Park** and Moonwook Ryu. 
