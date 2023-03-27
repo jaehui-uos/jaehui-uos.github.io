@@ -5,6 +5,12 @@ title: Publications
 
 **2022**
 
+- **Integrating Heterogeneous Graphs Using Graph Transformer Encoder for Solving Math Word Problems**  
+  Soyun Shin, **Jaehui Park** and Moonwook Ryu. 
+  *IEEE Access 2023* [<a href="https://ieeexplore.ieee.org/document/9982598">DOI</a>]   
+
+**2022**
+
 - **Retrieval-Augmented Response Generation for Knowledge-Grounded Conversation in the Wild**  
   Yeonchan Ahn, Sang-goo Lee, Junho Shim, **Jaehui Park**. 
   *IEEE Access 2022* [<a href="https://ieeexplore.ieee.org/document/9982598">DOI</a>] 
