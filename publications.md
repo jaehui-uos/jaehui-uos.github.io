@@ -5,6 +5,10 @@ title: Publications
 
 **2023**
 
+- **Improving Complex Scene Generation by Enhancing Multi-Scale Representations of GAN Discriminators**  
+  Hanbit Lee, Sang-goo Lee, **Jaehui Park** and Junho Shim. 
+  *IEEE Access 2023* [<a href="https://ieeexplore.ieee.org/document/998259">DOI</a>]   
+
 - **Integrating Heterogeneous Graphs Using Graph Transformer Encoder for Solving Math Word Problems**  
   Soyun Shin, **Jaehui Park** and Moonwook Ryu. 
   *IEEE Access 2023* [<a href="https://ieeexplore.ieee.org/document/9982598">DOI</a>]   
